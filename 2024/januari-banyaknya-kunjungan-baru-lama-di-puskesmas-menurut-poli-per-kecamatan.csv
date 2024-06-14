@@ -1,0 +1,570 @@
+Periode;Wilayah;Kecamatan;Nama Puskesmas;Poli;Baru;Lama;Total Kunjungan
+Januari;Surabaya Barat;Asem Rowo;Puskesmas Asemrowo;BATRA;2;26;28
+Januari;Surabaya Barat;Asem Rowo;Puskesmas Asemrowo;GIGI;70;481;551
+Januari;Surabaya Barat;Asem Rowo;Puskesmas Asemrowo;GIZI;1;7;8
+Januari;Surabaya Barat;Asem Rowo;Puskesmas Asemrowo;KIA;133;711;844
+Januari;Surabaya Barat;Asem Rowo;Puskesmas Asemrowo;LANSIA;12;401;413
+Januari;Surabaya Barat;Asem Rowo;Puskesmas Asemrowo;PSIKOLOGI;2;5;7
+Januari;Surabaya Barat;Asem Rowo;Puskesmas Asemrowo;SANITASI;1;0;1
+Januari;Surabaya Barat;Asem Rowo;Puskesmas Asemrowo;UMUM;465;2686;3151
+Januari;Surabaya Selatan;Wiyung;Puskesmas Balas Klumprik;BATRA;1;36;37
+Januari;Surabaya Selatan;Wiyung;Puskesmas Balas Klumprik;GIGI;37;282;319
+Januari;Surabaya Selatan;Wiyung;Puskesmas Balas Klumprik;GIZI;3;15;18
+Januari;Surabaya Selatan;Wiyung;Puskesmas Balas Klumprik;KIA;74;343;417
+Januari;Surabaya Selatan;Wiyung;Puskesmas Balas Klumprik;LANSIA;13;308;321
+Januari;Surabaya Selatan;Wiyung;Puskesmas Balas Klumprik;PSIKOLOGI;3;9;12
+Januari;Surabaya Selatan;Wiyung;Puskesmas Balas Klumprik;UMUM;217;1099;1316
+Januari;Surabaya Barat;Tandes;Puskesmas Balongsari;BATRA;2;16;18
+Januari;Surabaya Barat;Tandes;Puskesmas Balongsari;GIGI;39;454;493
+Januari;Surabaya Barat;Tandes;Puskesmas Balongsari;GIZI;0;5;5
+Januari;Surabaya Barat;Tandes;Puskesmas Balongsari;INSTALASI GAWAT DARURAT;13;11;24
+Januari;Surabaya Barat;Tandes;Puskesmas Balongsari;KIA;133;664;797
+Januari;Surabaya Barat;Tandes;Puskesmas Balongsari;LANSIA;11;529;540
+Januari;Surabaya Barat;Tandes;Puskesmas Balongsari;P2M;1;46;47
+Januari;Surabaya Barat;Tandes;Puskesmas Balongsari;PKPR;2;0;2
+Januari;Surabaya Barat;Tandes;Puskesmas Balongsari;PSIKOLOGI;9;24;33
+Januari;Surabaya Barat;Tandes;Puskesmas Balongsari;RAWAT INAP;0;1;1
+Januari;Surabaya Barat;Tandes;Puskesmas Balongsari;UMUM;369;1969;2338
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Bangkingan;BATRA;1;66;67
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Bangkingan;GIGI;26;264;290
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Bangkingan;GIZI;0;8;8
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Bangkingan;HAMIL;7;74;81
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Bangkingan;KIA;36;422;458
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Bangkingan;LANSIA;5;216;221
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Bangkingan;PSIKOLOGI;13;21;34
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Bangkingan;UMUM;132;1314;1446
+Januari;Surabaya Selatan;Sawahan;Puskesmas Banyu Urip;BATRA;0;11;11
+Januari;Surabaya Selatan;Sawahan;Puskesmas Banyu Urip;GIGI;42;394;436
+Januari;Surabaya Selatan;Sawahan;Puskesmas Banyu Urip;GIZI;0;4;4
+Januari;Surabaya Selatan;Sawahan;Puskesmas Banyu Urip;INSTALASI GAWAT DARURAT;57;178;235
+Januari;Surabaya Selatan;Sawahan;Puskesmas Banyu Urip;KIA;114;907;1021
+Januari;Surabaya Selatan;Sawahan;Puskesmas Banyu Urip;LANSIA;33;876;909
+Januari;Surabaya Selatan;Sawahan;Puskesmas Banyu Urip;PARU;6;217;223
+Januari;Surabaya Selatan;Sawahan;Puskesmas Banyu Urip;PKPR;39;28;67
+Januari;Surabaya Selatan;Sawahan;Puskesmas Banyu Urip;PSIKOLOGI;3;22;25
+Januari;Surabaya Selatan;Sawahan;Puskesmas Banyu Urip;RAWAT INAP;2;16;18
+Januari;Surabaya Selatan;Sawahan;Puskesmas Banyu Urip;UMUM;493;3154;3647
+Januari;Surabaya Barat;Pakal;Puskesmas Benowo;BATRA;0;14;14
+Januari;Surabaya Barat;Pakal;Puskesmas Benowo;GIGI;60;637;697
+Januari;Surabaya Barat;Pakal;Puskesmas Benowo;GIZI;20;75;95
+Januari;Surabaya Barat;Pakal;Puskesmas Benowo;INSTALASI GAWAT DARURAT;1;0;1
+Januari;Surabaya Barat;Pakal;Puskesmas Benowo;KIA;126;1000;1126
+Januari;Surabaya Barat;Pakal;Puskesmas Benowo;LANSIA;18;686;704
+Januari;Surabaya Barat;Pakal;Puskesmas Benowo;PSIKOLOGI;1;6;7
+Januari;Surabaya Barat;Pakal;Puskesmas Benowo;UMUM;425;2512;2937
+Januari;Surabaya Utara;Kenjeran;Puskesmas Bulak Banteng;BATRA;2;42;44
+Januari;Surabaya Utara;Kenjeran;Puskesmas Bulak Banteng;GIGI;44;598;642
+Januari;Surabaya Utara;Kenjeran;Puskesmas Bulak Banteng;GIZI;3;33;36
+Januari;Surabaya Utara;Kenjeran;Puskesmas Bulak Banteng;INSTALASI GAWAT DARURAT;2;5;7
+Januari;Surabaya Utara;Kenjeran;Puskesmas Bulak Banteng;KIA;156;1207;1363
+Januari;Surabaya Utara;Kenjeran;Puskesmas Bulak Banteng;LANSIA;29;758;787
+Januari;Surabaya Utara;Kenjeran;Puskesmas Bulak Banteng;PSIKOLOGI;0;5;5
+Januari;Surabaya Utara;Kenjeran;Puskesmas Bulak Banteng;RAWAT INAP;2;22;24
+Januari;Surabaya Utara;Kenjeran;Puskesmas Bulak Banteng;UMUM;365;2366;2731
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Dr. Soetomo;BATRA;3;36;39
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Dr. Soetomo;GIGI;37;209;246
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Dr. Soetomo;GIZI;0;7;7
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Dr. Soetomo;KIA;127;581;708
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Dr. Soetomo;LANSIA;28;594;622
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Dr. Soetomo;PSIKOLOGI;27;17;44
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Dr. Soetomo;UMUM;416;2055;2471
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Dr. Soetomo;VAKSIN D1;55;11;66
+Januari;Surabaya Selatan;Dukuh Pakis;Puskesmas Dukuh Kupang;ANAK;131;557;688
+Januari;Surabaya Selatan;Dukuh Pakis;Puskesmas Dukuh Kupang;BATRA;1;43;44
+Januari;Surabaya Selatan;Dukuh Pakis;Puskesmas Dukuh Kupang;GIGI;64;485;549
+Januari;Surabaya Selatan;Dukuh Pakis;Puskesmas Dukuh Kupang;INSTALASI GAWAT DARURAT;139;127;266
+Januari;Surabaya Selatan;Dukuh Pakis;Puskesmas Dukuh Kupang;KIA;64;327;391
+Januari;Surabaya Selatan;Dukuh Pakis;Puskesmas Dukuh Kupang;LANSIA;47;913;960
+Januari;Surabaya Selatan;Dukuh Pakis;Puskesmas Dukuh Kupang;PARU;0;23;23
+Januari;Surabaya Selatan;Dukuh Pakis;Puskesmas Dukuh Kupang;PKPR;41;36;77
+Januari;Surabaya Selatan;Dukuh Pakis;Puskesmas Dukuh Kupang;PSIKOLOGI;3;25;28
+Januari;Surabaya Selatan;Dukuh Pakis;Puskesmas Dukuh Kupang;RAWAT INAP;3;39;42
+Januari;Surabaya Selatan;Dukuh Pakis;Puskesmas Dukuh Kupang;UMUM;858;3072;3930
+Januari;Surabaya Utara;Krembangan;Puskesmas Dupak;BATRA;2;46;48
+Januari;Surabaya Utara;Krembangan;Puskesmas Dupak;GIGI;31;354;385
+Januari;Surabaya Utara;Krembangan;Puskesmas Dupak;GIZI;1;40;41
+Januari;Surabaya Utara;Krembangan;Puskesmas Dupak;INSTALASI GAWAT DARURAT;59;74;133
+Januari;Surabaya Utara;Krembangan;Puskesmas Dupak;KIA;118;747;865
+Januari;Surabaya Utara;Krembangan;Puskesmas Dupak;LANSIA;10;555;565
+Januari;Surabaya Utara;Krembangan;Puskesmas Dupak;PSIKOLOGI;2;18;20
+Januari;Surabaya Utara;Krembangan;Puskesmas Dupak;RAWAT INAP;17;20;37
+Januari;Surabaya Utara;Krembangan;Puskesmas Dupak;UMUM;194;2435;2629
+Januari;Surabaya Timur;Tambaksari;Puskesmas Gading;ANAK;146;709;855
+Januari;Surabaya Timur;Tambaksari;Puskesmas Gading;BATRA;3;76;79
+Januari;Surabaya Timur;Tambaksari;Puskesmas Gading;DEGENARATIF;1;133;134
+Januari;Surabaya Timur;Tambaksari;Puskesmas Gading;GIGI;83;573;656
+Januari;Surabaya Timur;Tambaksari;Puskesmas Gading;GIZI;48;75;123
+Januari;Surabaya Timur;Tambaksari;Puskesmas Gading;INSTALASI GAWAT DARURAT;2;1;3
+Januari;Surabaya Timur;Tambaksari;Puskesmas Gading;KIA;47;499;546
+Januari;Surabaya Timur;Tambaksari;Puskesmas Gading;LANSIA;36;761;797
+Januari;Surabaya Timur;Tambaksari;Puskesmas Gading;PARU;3;152;155
+Januari;Surabaya Timur;Tambaksari;Puskesmas Gading;PSIKOLOGI;2;30;32
+Januari;Surabaya Timur;Tambaksari;Puskesmas Gading;UMUM;1032;4236;5268
+Januari;Surabaya Timur;Tambaksari;Puskesmas Gading;VAKSIN D1;0;2;2
+Januari;Surabaya Selatan;Gayungan;Puskesmas Gayungan;BATRA;1;133;134
+Januari;Surabaya Selatan;Gayungan;Puskesmas Gayungan;GIGI;39;732;771
+Januari;Surabaya Selatan;Gayungan;Puskesmas Gayungan;GIZI;4;48;52
+Januari;Surabaya Selatan;Gayungan;Puskesmas Gayungan;KIA;106;772;878
+Januari;Surabaya Selatan;Gayungan;Puskesmas Gayungan;LANSIA;27;981;1008
+Januari;Surabaya Selatan;Gayungan;Puskesmas Gayungan;PSIKOLOGI;3;31;34
+Januari;Surabaya Selatan;Gayungan;Puskesmas Gayungan;UMUM;524;2631;3155
+Januari;Surabaya Pusat;Bubutan;Puskesmas Gundih;BATRA;0;11;11
+Januari;Surabaya Pusat;Bubutan;Puskesmas Gundih;GIGI;11;357;368
+Januari;Surabaya Pusat;Bubutan;Puskesmas Gundih;GIZI;0;9;9
+Januari;Surabaya Pusat;Bubutan;Puskesmas Gundih;KIA;63;760;823
+Januari;Surabaya Pusat;Bubutan;Puskesmas Gundih;LANSIA;7;513;520
+Januari;Surabaya Pusat;Bubutan;Puskesmas Gundih;PARU;0;110;110
+Januari;Surabaya Pusat;Bubutan;Puskesmas Gundih;PSIKOLOGI;0;12;12
+Januari;Surabaya Pusat;Bubutan;Puskesmas Gundih;UMUM;124;2738;2862
+Januari;Surabaya Timur;Gunung Anyar;Puskesmas Gunung Anyar;BATRA;2;53;55
+Januari;Surabaya Timur;Gunung Anyar;Puskesmas Gunung Anyar;GIGI;52;395;447
+Januari;Surabaya Timur;Gunung Anyar;Puskesmas Gunung Anyar;GIZI;9;10;19
+Januari;Surabaya Timur;Gunung Anyar;Puskesmas Gunung Anyar;INSTALASI GAWAT DARURAT;13;10;23
+Januari;Surabaya Timur;Gunung Anyar;Puskesmas Gunung Anyar;KIA;127;594;721
+Januari;Surabaya Timur;Gunung Anyar;Puskesmas Gunung Anyar;LANSIA;20;720;740
+Januari;Surabaya Timur;Gunung Anyar;Puskesmas Gunung Anyar;PKPR;24;38;62
+Januari;Surabaya Timur;Gunung Anyar;Puskesmas Gunung Anyar;PSIKOLOGI;14;33;47
+Januari;Surabaya Timur;Gunung Anyar;Puskesmas Gunung Anyar;RAWAT INAP;1;1;2
+Januari;Surabaya Timur;Gunung Anyar;Puskesmas Gunung Anyar;SANITASI;1;0;1
+Januari;Surabaya Timur;Gunung Anyar;Puskesmas Gunung Anyar;UMUM;764;2709;3473
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Jagir;BATRA;1;50;51
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Jagir;GIGI;171;995;1166
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Jagir;GIZI;4;10;14
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Jagir;INSTALASI GAWAT DARURAT;40;31;71
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Jagir;KIA;230;1274;1504
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Jagir;LANSIA;33;1311;1344
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Jagir;PSIKOLOGI;6;23;29
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Jagir;RAWAT INAP;16;21;37
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Jagir;UMUM;662;3904;4566
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Jemursari;BATRA;0;40;40
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Jemursari;GIGI;38;285;323
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Jemursari;GIZI;13;27;40
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Jemursari;KIA;54;450;504
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Jemursari;LANSIA;4;404;408
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Jemursari;PSIKOLOGI;16;40;56
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Jemursari;SANITASI;1;0;1
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Jemursari;UMUM;256;1929;2185
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Jeruk;BATRA;3;21;24
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Jeruk;GIGI;57;257;314
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Jeruk;GIZI;8;31;39
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Jeruk;INSTALASI GAWAT DARURAT;4;1;5
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Jeruk;KIA;40;206;246
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Jeruk;LANSIA;8;330;338
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Jeruk;PSIKOLOGI;7;22;29
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Jeruk;UMUM;243;1995;2238
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Kalijudan;ANAK;26;277;303
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Kalijudan;BATRA;2;60;62
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Kalijudan;GIGI;55;305;360
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Kalijudan;GIZI;0;9;9
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Kalijudan;INSTALASI GAWAT DARURAT;1;0;1
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Kalijudan;KIA;74;316;390
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Kalijudan;LANSIA;21;426;447
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Kalijudan;P2M;0;34;34
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Kalijudan;PSIKOLOGI;1;1;2
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Kalijudan;UMUM;494;1831;2325
+Januari;Surabaya Timur;Rungkut;Puskesmas Kalirungkut;BATRA;3;102;105
+Januari;Surabaya Timur;Rungkut;Puskesmas Kalirungkut;GIGI;61;404;465
+Januari;Surabaya Timur;Rungkut;Puskesmas Kalirungkut;GIGI SPESIALIS ;2;456;458
+Januari;Surabaya Timur;Rungkut;Puskesmas Kalirungkut;GIZI;17;74;91
+Januari;Surabaya Timur;Rungkut;Puskesmas Kalirungkut;KIA;138;941;1079
+Januari;Surabaya Timur;Rungkut;Puskesmas Kalirungkut;LANSIA;16;864;880
+Januari;Surabaya Timur;Rungkut;Puskesmas Kalirungkut;PARU;1;108;109
+Januari;Surabaya Timur;Rungkut;Puskesmas Kalirungkut;PKPR;0;1;1
+Januari;Surabaya Timur;Rungkut;Puskesmas Kalirungkut;PSIKOLOGI;23;67;90
+Januari;Surabaya Timur;Rungkut;Puskesmas Kalirungkut;UMUM;597;3271;3868
+Januari;Surabaya Selatan;Jambangan;Puskesmas Kebonsari;ANAK;53;478;531
+Januari;Surabaya Selatan;Jambangan;Puskesmas Kebonsari;BATRA;0;77;77
+Januari;Surabaya Selatan;Jambangan;Puskesmas Kebonsari;GIGI;42;348;390
+Januari;Surabaya Selatan;Jambangan;Puskesmas Kebonsari;GIZI;1;6;7
+Januari;Surabaya Selatan;Jambangan;Puskesmas Kebonsari;INSTALASI GAWAT DARURAT;56;109;165
+Januari;Surabaya Selatan;Jambangan;Puskesmas Kebonsari;KIA;81;503;584
+Januari;Surabaya Selatan;Jambangan;Puskesmas Kebonsari;LANSIA;21;647;668
+Januari;Surabaya Selatan;Jambangan;Puskesmas Kebonsari;MEDICAL CHECK UP;21;23;44
+Januari;Surabaya Selatan;Jambangan;Puskesmas Kebonsari;P2M;1;72;73
+Januari;Surabaya Selatan;Jambangan;Puskesmas Kebonsari;PSIKOLOGI;13;30;43
+Januari;Surabaya Selatan;Jambangan;Puskesmas Kebonsari;RAWAT INAP;3;4;7
+Januari;Surabaya Selatan;Jambangan;Puskesmas Kebonsari;UMUM;239;2463;2702
+Januari;Surabaya Selatan;Jambangan;Puskesmas Kebonsari;VAKSIN D1;251;557;808
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Kedungdoro;BATRA;6;104;110
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Kedungdoro;GIGI;23;404;427
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Kedungdoro;GIZI;1;11;12
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Kedungdoro;INSTALASI GAWAT DARURAT;2;0;2
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Kedungdoro;KIA;110;629;739
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Kedungdoro;PARU;0;72;72
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Kedungdoro;PSIKOLOGI;4;18;22
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Kedungdoro;UMUM;372;3935;4307
+Januari;Surabaya Pusat;Tegalsari;Puskesmas Kedungdoro;VCT;64;310;374
+Januari;Surabaya Selatan;Karang Pilang;Puskesmas Kedurus;BATRA;0;34;34
+Januari;Surabaya Selatan;Karang Pilang;Puskesmas Kedurus;GIGI;82;585;667
+Januari;Surabaya Selatan;Karang Pilang;Puskesmas Kedurus;GIZI;19;50;69
+Januari;Surabaya Selatan;Karang Pilang;Puskesmas Kedurus;INSTALASI GAWAT DARURAT;18;23;41
+Januari;Surabaya Selatan;Karang Pilang;Puskesmas Kedurus;KIA;219;971;1190
+Januari;Surabaya Selatan;Karang Pilang;Puskesmas Kedurus;LANSIA;52;1314;1366
+Januari;Surabaya Selatan;Karang Pilang;Puskesmas Kedurus;PARU;0;43;43
+Januari;Surabaya Selatan;Karang Pilang;Puskesmas Kedurus;PSIKOLOGI;5;18;23
+Januari;Surabaya Selatan;Karang Pilang;Puskesmas Kedurus;RAWAT INAP;2;0;2
+Januari;Surabaya Selatan;Karang Pilang;Puskesmas Kedurus;UMUM;655;3700;4355
+Januari;Surabaya Selatan;Karang Pilang;Puskesmas Kedurus;VCT;3;111;114
+Januari;Surabaya Utara;Bulak;Puskesmas Kenjeran;BATRA;1;19;20
+Januari;Surabaya Utara;Bulak;Puskesmas Kenjeran;GIGI;42;382;424
+Januari;Surabaya Utara;Bulak;Puskesmas Kenjeran;GIZI;13;43;56
+Januari;Surabaya Utara;Bulak;Puskesmas Kenjeran;KIA;136;609;745
+Januari;Surabaya Utara;Bulak;Puskesmas Kenjeran;PSIKOLOGI;6;35;41
+Januari;Surabaya Utara;Bulak;Puskesmas Kenjeran;UMUM;374;2971;3345
+Januari;Surabaya Timur;Sukolilo;Puskesmas Keputih;BATRA;0;10;10
+Januari;Surabaya Timur;Sukolilo;Puskesmas Keputih;GIGI;36;275;311
+Januari;Surabaya Timur;Sukolilo;Puskesmas Keputih;GIZI;1;2;3
+Januari;Surabaya Timur;Sukolilo;Puskesmas Keputih;KIA;108;522;630
+Januari;Surabaya Timur;Sukolilo;Puskesmas Keputih;LANSIA;4;261;265
+Januari;Surabaya Timur;Sukolilo;Puskesmas Keputih;PSIKOLOGI;3;6;9
+Januari;Surabaya Timur;Sukolilo;Puskesmas Keputih;UMUM;468;1815;2283
+Januari;Surabaya Pusat;Genteng;Puskesmas Ketabang;BATRA;7;59;66
+Januari;Surabaya Pusat;Genteng;Puskesmas Ketabang;GIGI;38;330;368
+Januari;Surabaya Pusat;Genteng;Puskesmas Ketabang;GIZI;0;4;4
+Januari;Surabaya Pusat;Genteng;Puskesmas Ketabang;INSTALASI GAWAT DARURAT;0;1;1
+Januari;Surabaya Pusat;Genteng;Puskesmas Ketabang;KIA;65;341;406
+Januari;Surabaya Pusat;Genteng;Puskesmas Ketabang;LANSIA;6;395;401
+Januari;Surabaya Pusat;Genteng;Puskesmas Ketabang;PSIKOLOGI;1;2;3
+Januari;Surabaya Pusat;Genteng;Puskesmas Ketabang;UMUM;319;2052;2371
+Januari;Surabaya Timur;Sukolilo;Puskesmas Klampis Ngasem;BATRA;0;15;15
+Januari;Surabaya Timur;Sukolilo;Puskesmas Klampis Ngasem;GIGI;44;434;478
+Januari;Surabaya Timur;Sukolilo;Puskesmas Klampis Ngasem;GIZI;1;13;14
+Januari;Surabaya Timur;Sukolilo;Puskesmas Klampis Ngasem;KIA;70;465;535
+Januari;Surabaya Timur;Sukolilo;Puskesmas Klampis Ngasem;LANSIA;12;426;438
+Januari;Surabaya Timur;Sukolilo;Puskesmas Klampis Ngasem;PSIKOLOGI;3;21;24
+Januari;Surabaya Timur;Sukolilo;Puskesmas Klampis Ngasem;UMUM;369;1895;2264
+Januari;Surabaya Utara;Krembangan;Puskesmas Krembangan Selatan;ANAK;11;41;52
+Januari;Surabaya Utara;Krembangan;Puskesmas Krembangan Selatan;BATRA;2;34;36
+Januari;Surabaya Utara;Krembangan;Puskesmas Krembangan Selatan;GIGI;26;301;327
+Januari;Surabaya Utara;Krembangan;Puskesmas Krembangan Selatan;GIZI;23;68;91
+Januari;Surabaya Utara;Krembangan;Puskesmas Krembangan Selatan;INSTALASI GAWAT DARURAT;59;153;212
+Januari;Surabaya Utara;Krembangan;Puskesmas Krembangan Selatan;KIA;91;849;940
+Januari;Surabaya Utara;Krembangan;Puskesmas Krembangan Selatan;LANSIA;19;544;563
+Januari;Surabaya Utara;Krembangan;Puskesmas Krembangan Selatan;PSIKOLOGI;23;43;66
+Januari;Surabaya Utara;Krembangan;Puskesmas Krembangan Selatan;RAWAT INAP;9;16;25
+Januari;Surabaya Utara;Krembangan;Puskesmas Krembangan Selatan;TUMBUH KEMBANG;1;14;15
+Januari;Surabaya Utara;Krembangan;Puskesmas Krembangan Selatan;UMUM;421;2707;3128
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Lidah Kulon;BATRA;1;27;28
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Lidah Kulon;GIGI;41;388;429
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Lidah Kulon;GIZI;1;7;8
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Lidah Kulon;KIA;67;510;577
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Lidah Kulon;LANSIA;13;407;420
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Lidah Kulon;PSIKOLOGI;4;16;20
+Januari;Surabaya Barat;Lakarsantri;Puskesmas Lidah Kulon;UMUM;376;2160;2536
+Januari;Surabaya Barat;Sambikerep;Puskesmas Lontar;BATRA;6;83;89
+Januari;Surabaya Barat;Sambikerep;Puskesmas Lontar;GIGI;58;356;414
+Januari;Surabaya Barat;Sambikerep;Puskesmas Lontar;GIZI;0;4;4
+Januari;Surabaya Barat;Sambikerep;Puskesmas Lontar;KIA;134;462;596
+Januari;Surabaya Barat;Sambikerep;Puskesmas Lontar;LANSIA;19;358;377
+Januari;Surabaya Barat;Sambikerep;Puskesmas Lontar;P2M;0;8;8
+Januari;Surabaya Barat;Sambikerep;Puskesmas Lontar;PSIKOLOGI;3;17;20
+Januari;Surabaya Barat;Sambikerep;Puskesmas Lontar;UMUM;691;2070;2761
+Januari;Surabaya Barat;Sambikerep;Puskesmas Made;BATRA;0;15;15
+Januari;Surabaya Barat;Sambikerep;Puskesmas Made;GIGI;30;279;309
+Januari;Surabaya Barat;Sambikerep;Puskesmas Made;GIZI;1;17;18
+Januari;Surabaya Barat;Sambikerep;Puskesmas Made;KIA;57;496;553
+Januari;Surabaya Barat;Sambikerep;Puskesmas Made;LANSIA;6;237;243
+Januari;Surabaya Barat;Sambikerep;Puskesmas Made;PSIKOLOGI;1;13;14
+Januari;Surabaya Barat;Sambikerep;Puskesmas Made;UMUM;219;1552;1771
+Januari;Surabaya Barat;Tandes;Puskesmas Manukan Kulon;BATRA;4;66;70
+Januari;Surabaya Barat;Tandes;Puskesmas Manukan Kulon;GIGI;92;530;622
+Januari;Surabaya Barat;Tandes;Puskesmas Manukan Kulon;GIZI;19;32;51
+Januari;Surabaya Barat;Tandes;Puskesmas Manukan Kulon;INSTALASI GAWAT DARURAT;33;39;72
+Januari;Surabaya Barat;Tandes;Puskesmas Manukan Kulon;KIA;192;1091;1283
+Januari;Surabaya Barat;Tandes;Puskesmas Manukan Kulon;LANSIA;34;1337;1371
+Januari;Surabaya Barat;Tandes;Puskesmas Manukan Kulon;PSIKOLOGI;9;31;40
+Januari;Surabaya Barat;Tandes;Puskesmas Manukan Kulon;PTRM;0;38;38
+Januari;Surabaya Barat;Tandes;Puskesmas Manukan Kulon;RAWAT INAP;0;18;18
+Januari;Surabaya Barat;Tandes;Puskesmas Manukan Kulon;UMUM;679;4017;4696
+Januari;Surabaya Timur;Rungkut;Puskesmas Medokan Ayu;BATRA;8;147;155
+Januari;Surabaya Timur;Rungkut;Puskesmas Medokan Ayu;GIGI;136;786;922
+Januari;Surabaya Timur;Rungkut;Puskesmas Medokan Ayu;GIZI;2;27;29
+Januari;Surabaya Timur;Rungkut;Puskesmas Medokan Ayu;INSTALASI GAWAT DARURAT;2;1;3
+Januari;Surabaya Timur;Rungkut;Puskesmas Medokan Ayu;KIA;214;1013;1227
+Januari;Surabaya Timur;Rungkut;Puskesmas Medokan Ayu;LANSIA;26;812;838
+Januari;Surabaya Timur;Rungkut;Puskesmas Medokan Ayu;PSIKOLOGI;27;68;95
+Januari;Surabaya Timur;Rungkut;Puskesmas Medokan Ayu;RAWAT INAP;5;66;71
+Januari;Surabaya Timur;Rungkut;Puskesmas Medokan Ayu;UMUM;688;3779;4467
+Januari;Surabaya Timur;Sukolilo;Puskesmas Menur;BATRA;3;76;79
+Januari;Surabaya Timur;Sukolilo;Puskesmas Menur;GIGI;55;497;552
+Januari;Surabaya Timur;Sukolilo;Puskesmas Menur;GIZI;0;13;13
+Januari;Surabaya Timur;Sukolilo;Puskesmas Menur;INSTALASI GAWAT DARURAT;1;0;1
+Januari;Surabaya Timur;Sukolilo;Puskesmas Menur;KIA;97;617;714
+Januari;Surabaya Timur;Sukolilo;Puskesmas Menur;LANSIA;21;788;809
+Januari;Surabaya Timur;Sukolilo;Puskesmas Menur;MEDICAL CHECK UP;197;485;682
+Januari;Surabaya Timur;Sukolilo;Puskesmas Menur;PSIKOLOGI;5;19;24
+Januari;Surabaya Timur;Sukolilo;Puskesmas Menur;UMUM;284;2306;2590
+Januari;Surabaya Timur;Gubeng;Puskesmas Mojo;BATRA;3;67;70
+Januari;Surabaya Timur;Gubeng;Puskesmas Mojo;GIGI;27;430;457
+Januari;Surabaya Timur;Gubeng;Puskesmas Mojo;GIZI;0;3;3
+Januari;Surabaya Timur;Gubeng;Puskesmas Mojo;KIA;129;539;668
+Januari;Surabaya Timur;Gubeng;Puskesmas Mojo;LANSIA;36;849;885
+Januari;Surabaya Timur;Gubeng;Puskesmas Mojo;MEDICAL CHECK UP;247;3157;3404
+Januari;Surabaya Timur;Gubeng;Puskesmas Mojo;P2M;7;175;182
+Januari;Surabaya Timur;Gubeng;Puskesmas Mojo;PSIKOLOGI;3;18;21
+Januari;Surabaya Timur;Gubeng;Puskesmas Mojo;UMUM;377;2825;3202
+Januari;Surabaya Utara;Krembangan;Puskesmas Moro Krembangan ;ANAK;81;575;656
+Januari;Surabaya Utara;Krembangan;Puskesmas Moro Krembangan ;BATRA;1;10;11
+Januari;Surabaya Utara;Krembangan;Puskesmas Moro Krembangan ;GIGI;41;270;311
+Januari;Surabaya Utara;Krembangan;Puskesmas Moro Krembangan ;GIZI;17;134;151
+Januari;Surabaya Utara;Krembangan;Puskesmas Moro Krembangan ;KIA;50;236;286
+Januari;Surabaya Utara;Krembangan;Puskesmas Moro Krembangan ;LANSIA;10;544;554
+Januari;Surabaya Utara;Krembangan;Puskesmas Moro Krembangan ;PSIKOLOGI;10;28;38
+Januari;Surabaya Utara;Krembangan;Puskesmas Moro Krembangan ;UMUM;364;2662;3026
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Mulyorejo;BATRA;1;52;53
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Mulyorejo;GIGI;102;413;515
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Mulyorejo;GIZI;32;62;94
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Mulyorejo;HAMIL;30;207;237
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Mulyorejo;INSTALASI GAWAT DARURAT;14;17;31
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Mulyorejo;KIA;105;629;734
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Mulyorejo;LANSIA;25;613;638
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Mulyorejo;PSIKOLOGI;36;57;93
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Mulyorejo;RAWAT INAP;13;15;28
+Januari;Surabaya Timur;Mulyorejo;Puskesmas Mulyorejo;UMUM;619;2100;2719
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Ngagel Rejo;BATRA;1;24;25
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Ngagel Rejo;GIGI;42;603;645
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Ngagel Rejo;KIA;158;1859;2017
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Ngagel Rejo;LANSIA;28;838;866
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Ngagel Rejo;Pelayanan Anak Berkebutuhan Khusus�(ABK);20;240;260
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Ngagel Rejo;PSIKOLOGI;1;16;17
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Ngagel Rejo;UMUM;478;2498;2976
+Januari;Surabaya Timur;Tambaksari;Puskesmas Pacarkeling;BATRA;2;38;40
+Januari;Surabaya Timur;Tambaksari;Puskesmas Pacarkeling;GIGI;47;269;316
+Januari;Surabaya Timur;Tambaksari;Puskesmas Pacarkeling;GIZI;1;19;20
+Januari;Surabaya Timur;Tambaksari;Puskesmas Pacarkeling;KIA;109;721;830
+Januari;Surabaya Timur;Tambaksari;Puskesmas Pacarkeling;LANSIA;1;9;10
+Januari;Surabaya Timur;Tambaksari;Puskesmas Pacarkeling;PSIKOLOGI;10;36;46
+Januari;Surabaya Timur;Tambaksari;Puskesmas Pacarkeling;RAWAT INAP;0;1;1
+Januari;Surabaya Timur;Tambaksari;Puskesmas Pacarkeling;SANITASI;0;1;1
+Januari;Surabaya Timur;Tambaksari;Puskesmas Pacarkeling;UMUM;649;3471;4120
+Januari;Surabaya Selatan;Sawahan;Puskesmas Pakis;BATRA;2;30;32
+Januari;Surabaya Selatan;Sawahan;Puskesmas Pakis;GIGI;20;368;388
+Januari;Surabaya Selatan;Sawahan;Puskesmas Pakis;GIZI;2;40;42
+Januari;Surabaya Selatan;Sawahan;Puskesmas Pakis;INSTALASI GAWAT DARURAT;0;1;1
+Januari;Surabaya Selatan;Sawahan;Puskesmas Pakis;KIA;79;663;742
+Januari;Surabaya Selatan;Sawahan;Puskesmas Pakis;LANSIA;12;922;934
+Januari;Surabaya Selatan;Sawahan;Puskesmas Pakis;PARU;0;84;84
+Januari;Surabaya Selatan;Sawahan;Puskesmas Pakis;PSIKOLOGI;7;42;49
+Januari;Surabaya Selatan;Sawahan;Puskesmas Pakis;RAWAT INAP;3;5;8
+Januari;Surabaya Selatan;Sawahan;Puskesmas Pakis;UMUM;323;2455;2778
+Januari;Surabaya Selatan;Semampir;Puskesmas Pegirian;BATRA;5;98;103
+Januari;Surabaya Selatan;Semampir;Puskesmas Pegirian;GIGI;39;377;416
+Januari;Surabaya Selatan;Semampir;Puskesmas Pegirian;GIZI;1;43;44
+Januari;Surabaya Selatan;Semampir;Puskesmas Pegirian;KIA;102;799;901
+Januari;Surabaya Selatan;Semampir;Puskesmas Pegirian;LANSIA;10;483;493
+Januari;Surabaya Selatan;Semampir;Puskesmas Pegirian;PSIKOLOGI;27;75;102
+Januari;Surabaya Selatan;Semampir;Puskesmas Pegirian;SANITASI;2;45;47
+Januari;Surabaya Selatan;Semampir;Puskesmas Pegirian;UMUM;272;2635;2907
+Januari;Surabaya Selatan;Semampir;Puskesmas Pegirian;VAKSIN D1;0;1;1
+Januari;Surabaya Pusat;Genteng;Puskesmas Peneleh;BATRA;1;6;7
+Januari;Surabaya Pusat;Genteng;Puskesmas Peneleh;GIGI;13;299;312
+Januari;Surabaya Pusat;Genteng;Puskesmas Peneleh;GIZI;1;10;11
+Januari;Surabaya Pusat;Genteng;Puskesmas Peneleh;INSTALASI GAWAT DARURAT;1;0;1
+Januari;Surabaya Pusat;Genteng;Puskesmas Peneleh;KIA;80;560;640
+Januari;Surabaya Pusat;Genteng;Puskesmas Peneleh;LANSIA;23;671;694
+Januari;Surabaya Pusat;Genteng;Puskesmas Peneleh;PSIKOLOGI;0;2;2
+Januari;Surabaya Pusat;Genteng;Puskesmas Peneleh;UMUM;342;2529;2871
+Januari;Surabaya Utara;Pabean Cantian;Puskesmas Perak Timur;ANAK;77;691;768
+Januari;Surabaya Utara;Pabean Cantian;Puskesmas Perak Timur;BATRA;2;19;21
+Januari;Surabaya Utara;Pabean Cantian;Puskesmas Perak Timur;GIGI;49;320;369
+Januari;Surabaya Utara;Pabean Cantian;Puskesmas Perak Timur;GIZI;3;5;8
+Januari;Surabaya Utara;Pabean Cantian;Puskesmas Perak Timur;INSTALASI GAWAT DARURAT;1;0;1
+Januari;Surabaya Utara;Pabean Cantian;Puskesmas Perak Timur;KIA;80;386;466
+Januari;Surabaya Utara;Pabean Cantian;Puskesmas Perak Timur;LANSIA;13;405;418
+Januari;Surabaya Utara;Pabean Cantian;Puskesmas Perak Timur;PARU;0;59;59
+Januari;Surabaya Utara;Pabean Cantian;Puskesmas Perak Timur;PSIKOLOGI;9;22;31
+Januari;Surabaya Utara;Pabean Cantian;Puskesmas Perak Timur;STD;3;105;108
+Januari;Surabaya Utara;Pabean Cantian;Puskesmas Perak Timur;UMUM;800;4776;5576
+Januari;Surabaya Timur;Gubeng;Puskesmas Pucangsewu;BATRA;2;85;87
+Januari;Surabaya Timur;Gubeng;Puskesmas Pucangsewu;GIGI;50;485;535
+Januari;Surabaya Timur;Gubeng;Puskesmas Pucangsewu;GIZI;2;2;4
+Januari;Surabaya Timur;Gubeng;Puskesmas Pucangsewu;INSTALASI GAWAT DARURAT;9;2;11
+Januari;Surabaya Timur;Gubeng;Puskesmas Pucangsewu;KIA;116;620;736
+Januari;Surabaya Timur;Gubeng;Puskesmas Pucangsewu;LANSIA;31;1264;1295
+Januari;Surabaya Timur;Gubeng;Puskesmas Pucangsewu;PSIKOLOGI;1;11;12
+Januari;Surabaya Timur;Gubeng;Puskesmas Pucangsewu;UMUM;569;3039;3608
+Januari;Surabaya Selatan;Sawahan;Puskesmas Putat Jaya;BATRA;0;44;44
+Januari;Surabaya Selatan;Sawahan;Puskesmas Putat Jaya;GIGI;44;382;426
+Januari;Surabaya Selatan;Sawahan;Puskesmas Putat Jaya;GIZI;6;38;44
+Januari;Surabaya Selatan;Sawahan;Puskesmas Putat Jaya;INSTALASI GAWAT DARURAT;1;0;1
+Januari;Surabaya Selatan;Sawahan;Puskesmas Putat Jaya;KIA;79;664;743
+Januari;Surabaya Selatan;Sawahan;Puskesmas Putat Jaya;LANSIA;18;686;704
+Januari;Surabaya Selatan;Sawahan;Puskesmas Putat Jaya;PSIKOLOGI;47;69;116
+Januari;Surabaya Selatan;Sawahan;Puskesmas Putat Jaya;STD;48;38;86
+Januari;Surabaya Selatan;Sawahan;Puskesmas Putat Jaya;UMUM;380;2528;2908
+Januari;Surabaya Selatan;Sawahan;Puskesmas Putat Jaya;VCT;27;151;178
+Januari;Surabaya Timur;Tambaksari;Puskesmas Rangkah;BATRA;0;19;19
+Januari;Surabaya Timur;Tambaksari;Puskesmas Rangkah;GIGI;62;571;633
+Januari;Surabaya Timur;Tambaksari;Puskesmas Rangkah;GIZI;3;22;25
+Januari;Surabaya Timur;Tambaksari;Puskesmas Rangkah;KIA;251;1176;1427
+Januari;Surabaya Timur;Tambaksari;Puskesmas Rangkah;LANSIA;22;824;846
+Januari;Surabaya Timur;Tambaksari;Puskesmas Rangkah;PARU;2;80;82
+Januari;Surabaya Timur;Tambaksari;Puskesmas Rangkah;PSIKOLOGI;10;45;55
+Januari;Surabaya Timur;Tambaksari;Puskesmas Rangkah;UMUM;691;3719;4410
+Januari;Surabaya Selatan;Sawahan;Puskesmas Sawahan;BATRA;0;43;43
+Januari;Surabaya Selatan;Sawahan;Puskesmas Sawahan;GIGI;44;450;494
+Januari;Surabaya Selatan;Sawahan;Puskesmas Sawahan;GIZI;10;33;43
+Januari;Surabaya Selatan;Sawahan;Puskesmas Sawahan;KIA;104;769;873
+Januari;Surabaya Selatan;Sawahan;Puskesmas Sawahan;LANSIA;20;907;927
+Januari;Surabaya Selatan;Sawahan;Puskesmas Sawahan;PSIKOLOGI;6;37;43
+Januari;Surabaya Selatan;Sawahan;Puskesmas Sawahan;UMUM;468;3150;3618
+Januari;Surabaya Utara;Semampir;Puskesmas Sawah Pulo;ANAK;66;437;503
+Januari;Surabaya Utara;Semampir;Puskesmas Sawah Pulo;BATRA;0;3;3
+Januari;Surabaya Utara;Semampir;Puskesmas Sawah Pulo;GIGI;42;361;403
+Januari;Surabaya Utara;Semampir;Puskesmas Sawah Pulo;GIZI;1;46;47
+Januari;Surabaya Utara;Semampir;Puskesmas Sawah Pulo;INSTALASI GAWAT DARURAT;0;1;1
+Januari;Surabaya Utara;Semampir;Puskesmas Sawah Pulo;KIA;82;335;417
+Januari;Surabaya Utara;Semampir;Puskesmas Sawah Pulo;LANSIA;12;342;354
+Januari;Surabaya Utara;Semampir;Puskesmas Sawah Pulo;PARU;1;65;66
+Januari;Surabaya Utara;Semampir;Puskesmas Sawah Pulo;PSIKOLOGI;0;1;1
+Januari;Surabaya Utara;Semampir;Puskesmas Sawah Pulo;UMUM;313;2145;2458
+Januari;Surabaya Barat;Benowo;Puskesmas Sememi;BATRA;2;25;27
+Januari;Surabaya Barat;Benowo;Puskesmas Sememi;GIGI;40;551;591
+Januari;Surabaya Barat;Benowo;Puskesmas Sememi;GIZI;8;36;44
+Januari;Surabaya Barat;Benowo;Puskesmas Sememi;INSTALASI GAWAT DARURAT;8;6;14
+Januari;Surabaya Barat;Benowo;Puskesmas Sememi;KIA;260;1296;1556
+Januari;Surabaya Barat;Benowo;Puskesmas Sememi;LANSIA;21;642;663
+Januari;Surabaya Barat;Benowo;Puskesmas Sememi;PSIKOLOGI;1;21;22
+Januari;Surabaya Barat;Benowo;Puskesmas Sememi;RAWAT INAP;1;5;6
+Januari;Surabaya Barat;Benowo;Puskesmas Sememi;SANITASI;0;1;1
+Januari;Surabaya Barat;Benowo;Puskesmas Sememi;UMUM;755;3467;4222
+Januari;Surabaya Barat;Benowo;Puskesmas Sememi;VCT;6;37;43
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Sidosermo;BATRA;2;24;26
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Sidosermo;GIGI;42;294;336
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Sidosermo;GIZI;13;48;61
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Sidosermo;KIA;91;490;581
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Sidosermo;LANSIA;15;639;654
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Sidosermo;PSIKOLOGI;8;19;27
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Sidosermo;UMUM;396;2431;2827
+Januari;Surabaya Utara;Semampir;Puskesmas Sidotopo;BATRA;0;9;9
+Januari;Surabaya Utara;Semampir;Puskesmas Sidotopo;GIGI;51;402;453
+Januari;Surabaya Utara;Semampir;Puskesmas Sidotopo;GIZI;80;561;641
+Januari;Surabaya Utara;Semampir;Puskesmas Sidotopo;INSTALASI GAWAT DARURAT;1;0;1
+Januari;Surabaya Utara;Semampir;Puskesmas Sidotopo;KIA;60;327;387
+Januari;Surabaya Utara;Semampir;Puskesmas Sidotopo;LANSIA;18;574;592
+Januari;Surabaya Utara;Semampir;Puskesmas Sidotopo;PARU;2;110;112
+Januari;Surabaya Utara;Semampir;Puskesmas Sidotopo;PSIKOLOGI;3;13;16
+Januari;Surabaya Utara;Semampir;Puskesmas Sidotopo;UMUM;480;3172;3652
+Januari;Surabaya Utara;Kenjeran;Puskesmas Sidotopo Wetan;BATRA;3;43;46
+Januari;Surabaya Utara;Kenjeran;Puskesmas Sidotopo Wetan;GIGI;108;583;691
+Januari;Surabaya Utara;Kenjeran;Puskesmas Sidotopo Wetan;GIZI;48;110;158
+Januari;Surabaya Utara;Kenjeran;Puskesmas Sidotopo Wetan;INSTALASI GAWAT DARURAT;0;1;1
+Januari;Surabaya Utara;Kenjeran;Puskesmas Sidotopo Wetan;KIA;239;1660;1899
+Januari;Surabaya Utara;Kenjeran;Puskesmas Sidotopo Wetan;LANSIA;14;618;632
+Januari;Surabaya Utara;Kenjeran;Puskesmas Sidotopo Wetan;LOKET;1;0;1
+Januari;Surabaya Utara;Kenjeran;Puskesmas Sidotopo Wetan;PARU;4;173;177
+Januari;Surabaya Utara;Kenjeran;Puskesmas Sidotopo Wetan;PSIKOLOGI;67;94;161
+Januari;Surabaya Utara;Kenjeran;Puskesmas Sidotopo Wetan;RAWAT INAP;33;129;162
+Januari;Surabaya Utara;Kenjeran;Puskesmas Sidotopo Wetan;SANITASI;39;100;139
+Januari;Surabaya Utara;Kenjeran;Puskesmas Sidotopo Wetan;UMUM;544;4169;4713
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simolawang;ANAK;75;633;708
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simolawang;BATRA;0;14;14
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simolawang;GIGI;20;490;510
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simolawang;GIZI;2;51;53
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simolawang;KIA;29;292;321
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simolawang;LANSIA;10;494;504
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simolawang;PARU;0;129;129
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simolawang;PSIKOLOGI;5;40;45
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simolawang;UMUM;286;3074;3360
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simomulyo;ANAK;49;649;698
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simomulyo;BATRA;3;72;75
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simomulyo;GIGI;49;608;657
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simomulyo;GIZI;4;27;31
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simomulyo;INSTALASI GAWAT DARURAT;34;63;97
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simomulyo;KIA;130;828;958
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simomulyo;LANSIA;35;1439;1474
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simomulyo;PSIKOLOGI;10;48;58
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simomulyo;RAWAT INAP;1;13;14
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simomulyo;SANITASI;0;5;5
+Januari;Surabaya Pusat;Simokerto;Puskesmas Simomulyo;UMUM;804;3883;4687
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Siwalankerto;BATRA;1;18;19
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Siwalankerto;GIGI;27;313;340
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Siwalankerto;GIZI;2;22;24
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Siwalankerto;INSTALASI GAWAT DARURAT;29;61;90
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Siwalankerto;KIA;51;387;438
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Siwalankerto;LANSIA;11;489;500
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Siwalankerto;PSIKOLOGI;4;23;27
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Siwalankerto;RAWAT INAP;1;5;6
+Januari;Surabaya Selatan;Wonocolo;Puskesmas Siwalankerto;UMUM;323;2222;2545
+Januari;Surabaya Pusat;Simokerto;Puskesmas Tambakrejo;BATRA;5;91;96
+Januari;Surabaya Pusat;Simokerto;Puskesmas Tambakrejo;GIGI;44;321;365
+Januari;Surabaya Pusat;Simokerto;Puskesmas Tambakrejo;GIZI;2;28;30
+Januari;Surabaya Pusat;Simokerto;Puskesmas Tambakrejo;INSTALASI GAWAT DARURAT;1;0;1
+Januari;Surabaya Pusat;Simokerto;Puskesmas Tambakrejo;KIA;102;749;851
+Januari;Surabaya Pusat;Simokerto;Puskesmas Tambakrejo;LANSIA;35;759;794
+Januari;Surabaya Pusat;Simokerto;Puskesmas Tambakrejo;PKPR;20;141;161
+Januari;Surabaya Pusat;Simokerto;Puskesmas Tambakrejo;PSIKOLOGI;4;10;14
+Januari;Surabaya Pusat;Simokerto;Puskesmas Tambakrejo;RAWAT INAP;0;1;1
+Januari;Surabaya Pusat;Simokerto;Puskesmas Tambakrejo;UMUM;392;2762;3154
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tambak Wedi;BATRA;0;20;20
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tambak Wedi;GIGI;26;386;412
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tambak Wedi;GIZI;0;11;11
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tambak Wedi;INSTALASI GAWAT DARURAT;4;3;7
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tambak Wedi;KIA;61;459;520
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tambak Wedi;LANSIA;5;243;248
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tambak Wedi;PSIKOLOGI;2;21;23
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tambak Wedi;UMUM;123;1123;1246
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tanah Kali Kedinding;ANAK;81;496;577
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tanah Kali Kedinding;BATRA;84;808;892
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tanah Kali Kedinding;GIGI;47;667;714
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tanah Kali Kedinding;GIZI;640;22;662
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tanah Kali Kedinding;INSTALASI GAWAT DARURAT;40;63;103
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tanah Kali Kedinding;KIA;141;800;941
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tanah Kali Kedinding;LANSIA;14;523;537
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tanah Kali Kedinding;MEDICAL CHECK UP;47;56;103
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tanah Kali Kedinding;PSIKOLOGI;8;99;107
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tanah Kali Kedinding;RAWAT INAP;9;41;50
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tanah Kali Kedinding;SANITASI;0;1;1
+Januari;Surabaya Utara;Kenjeran;Puskesmas Tanah Kali Kedinding;UMUM;319;2597;2916
+Januari;Surabaya Barat;Sukomanunggal;Puskesmas Tanjungsari;BATRA;0;2;2
+Januari;Surabaya Barat;Sukomanunggal;Puskesmas Tanjungsari;GIGI;64;359;423
+Januari;Surabaya Barat;Sukomanunggal;Puskesmas Tanjungsari;GIZI;0;1;1
+Januari;Surabaya Barat;Sukomanunggal;Puskesmas Tanjungsari;INSTALASI GAWAT DARURAT;2;5;7
+Januari;Surabaya Barat;Sukomanunggal;Puskesmas Tanjungsari;KIA;112;375;487
+Januari;Surabaya Barat;Sukomanunggal;Puskesmas Tanjungsari;LANSIA;13;312;325
+Januari;Surabaya Barat;Sukomanunggal;Puskesmas Tanjungsari;PSIKOLOGI;1;6;7
+Januari;Surabaya Barat;Sukomanunggal;Puskesmas Tanjungsari;RAWAT INAP;1;3;4
+Januari;Surabaya Barat;Sukomanunggal;Puskesmas Tanjungsari;UMUM;500;1505;2005
+Januari;Surabaya Pusat;Bubutan;Puskesmas Tembok Dukuh;BATRA;1;20;21
+Januari;Surabaya Pusat;Bubutan;Puskesmas Tembok Dukuh;GIGI;51;398;449
+Januari;Surabaya Pusat;Bubutan;Puskesmas Tembok Dukuh;GIZI;10;50;60
+Januari;Surabaya Pusat;Bubutan;Puskesmas Tembok Dukuh;INSTALASI GAWAT DARURAT;1;0;1
+Januari;Surabaya Pusat;Bubutan;Puskesmas Tembok Dukuh;KIA;155;565;720
+Januari;Surabaya Pusat;Bubutan;Puskesmas Tembok Dukuh;PSIKOLOGI;0;6;6
+Januari;Surabaya Pusat;Bubutan;Puskesmas Tembok Dukuh;SANITASI;0;2;2
+Januari;Surabaya Pusat;Bubutan;Puskesmas Tembok Dukuh;UMUM;555;3238;3793
+Januari;Surabaya Timur;Tenggilis Mejoyo;Puskesmas Tenggilis;BATRA;0;59;59
+Januari;Surabaya Timur;Tenggilis Mejoyo;Puskesmas Tenggilis;DEGENARATIF;0;2;2
+Januari;Surabaya Timur;Tenggilis Mejoyo;Puskesmas Tenggilis;GIGI;59;486;545
+Januari;Surabaya Timur;Tenggilis Mejoyo;Puskesmas Tenggilis;GIZI;14;37;51
+Januari;Surabaya Timur;Tenggilis Mejoyo;Puskesmas Tenggilis;INSTALASI GAWAT DARURAT;5;9;14
+Januari;Surabaya Timur;Tenggilis Mejoyo;Puskesmas Tenggilis;KIA;162;1061;1223
+Januari;Surabaya Timur;Tenggilis Mejoyo;Puskesmas Tenggilis;LANSIA;21;704;725
+Januari;Surabaya Timur;Tenggilis Mejoyo;Puskesmas Tenggilis;PSIKOLOGI;3;18;21
+Januari;Surabaya Timur;Tenggilis Mejoyo;Puskesmas Tenggilis;RAWAT INAP;1;6;7
+Januari;Surabaya Timur;Tenggilis Mejoyo;Puskesmas Tenggilis;UMUM;435;2566;3001
+Januari;Surabaya Selatan;Wiyung;Puskesmas Wiyung;ANAK;85;542;627
+Januari;Surabaya Selatan;Wiyung;Puskesmas Wiyung;BATRA;9;162;171
+Januari;Surabaya Selatan;Wiyung;Puskesmas Wiyung;GIGI;83;698;781
+Januari;Surabaya Selatan;Wiyung;Puskesmas Wiyung;GIZI;4;57;61
+Januari;Surabaya Selatan;Wiyung;Puskesmas Wiyung;INSTALASI GAWAT DARURAT;0;2;2
+Januari;Surabaya Selatan;Wiyung;Puskesmas Wiyung;KIA;49;464;513
+Januari;Surabaya Selatan;Wiyung;Puskesmas Wiyung;LANSIA;19;712;731
+Januari;Surabaya Selatan;Wiyung;Puskesmas Wiyung;PKPR;29;18;47
+Januari;Surabaya Selatan;Wiyung;Puskesmas Wiyung;PSIKOLOGI;19;39;58
+Januari;Surabaya Selatan;Wiyung;Puskesmas Wiyung;SANITASI;1;22;23
+Januari;Surabaya Selatan;Wiyung;Puskesmas Wiyung;UMUM;612;3343;3955
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Wonokromo;BATRA;0;37;37
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Wonokromo;GIGI;39;405;444
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Wonokromo;GIZI;1;0;1
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Wonokromo;KIA;98;606;704
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Wonokromo;LANSIA;14;703;717
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Wonokromo;PSIKOLOGI;5;11;16
+Januari;Surabaya Selatan;Wonokromo;Puskesmas Wonokromo;UMUM;452;2086;2538
+Januari;Surabaya Utara;Semampir;Puskesmas Wonokusumo;BATRA;0;12;12
+Januari;Surabaya Utara;Semampir;Puskesmas Wonokusumo;GIGI;53;631;684
+Januari;Surabaya Utara;Semampir;Puskesmas Wonokusumo;GIZI;0;20;20
+Januari;Surabaya Utara;Semampir;Puskesmas Wonokusumo;KIA;152;841;993
+Januari;Surabaya Utara;Semampir;Puskesmas Wonokusumo;LANSIA;17;690;707
+Januari;Surabaya Utara;Semampir;Puskesmas Wonokusumo;PSIKOLOGI;6;13;19
+Januari;Surabaya Utara;Semampir;Puskesmas Wonokusumo;UMUM;412;3175;3587
