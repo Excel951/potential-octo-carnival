@@ -102,16 +102,17 @@ des22['Periode'] = 'December 2022'
 
 data = pd.concat([
     jan22, feb22, mar22, apr22, mei22, jun22, jul22, agu22, sep22, okt22, nov22, des22, jan23, feb23, mar23, apr23,
-    mei23, jun23, jul23, agu23, sep23, okt23, nov23, des23, jan24, feb24, mar24, apr24, mei24
-
+    mei23, jun23, jul23, agu23, sep23, okt23, nov23, des23, jan24, feb24,
+    # mar24, apr24, mei24
 ])
-# val_data = pd.concat([
-#     mar24, apr24, mei24
-# ])
+val_data = pd.concat([
+    mar24, apr24, mei24
+])
 
 # Filter data untuk Puskesmas A (contoh)
-puskesmas_name = 'Puskesmas Dukuh Kupang'
+puskesmas_name = 'Puskesmas Wiyung'
 data_puskesmas_a = data[data['Nama Puskesmas'] == puskesmas_name]
+val_data_puskesmas_a = val_data[val_data['Nama Puskesmas'] == puskesmas_name]
 
 total_per_bulan = data_puskesmas_a.groupby('Periode')['Total Kunjungan'].sum().reset_index()
 total_per_bulan['Periode'] = pd.to_datetime(total_per_bulan['Periode'], format='%B %Y')
@@ -119,22 +120,10 @@ total_per_bulan = total_per_bulan.sort_values('Periode')
 # print('Dataset', total_per_bulan)
 print(total_per_bulan.describe())
 
-# plt.figure(figsize=(12, 6))
-# plt.plot(total_per_bulan['Periode'], total_per_bulan['Total Kunjungan'], marker='o')
-#
-# plt.title(f'Total Kunjungan Puskesmas {puskesmas_name} per Bulan')
-# plt.xlabel('Periode')
-# plt.ylabel('Total Kunjungan')
-# plt.xticks(rotation=45)
-# plt.grid(True)
-# plt.ylim(0)  # Memastikan sumbu Y dimulai dari 0
-# plt.tight_layout()
-# plt.show()
-
-# val_total_per_bulan = val_data.groupby(['Periode', 'Nama Puskesmas'])['Total Kunjungan'].sum().reset_index()
-# val_total_per_bulan['Periode'] = pd.to_datetime(val_total_per_bulan['Periode'], format='%B %Y')
-# val_total_per_bulan = val_total_per_bulan.sort_values('Periode')
-# # print('Val', val_total_per_bulan)
+val_total_per_bulan = val_data_puskesmas_a.groupby(['Periode'])['Total Kunjungan'].sum().reset_index()
+val_total_per_bulan['Periode'] = pd.to_datetime(val_total_per_bulan['Periode'], format='%B %Y')
+val_total_per_bulan = val_total_per_bulan.sort_values('Periode')
+print('Val', val_total_per_bulan)
 # print(val_total_per_bulan.describe())
 
 # Normalisasi data Total Kunjungan
@@ -158,7 +147,6 @@ def windowed_dataset(series, batch_size, n_past=3, n_future=1, shift=1):
     dataset = dataset.map(lambda window: (window[:-n_future], window[-n_future:, :1]))
     dataset = dataset.batch(batch_size).prefetch(1)
     return dataset
-
 
 # Buat dataset menggunakan windowed_dataset function
 dataset = windowed_dataset(data_scaled, BATCH_SIZE, n_past=N_PAST, n_future=N_FUTURE, shift=SHIFT)
