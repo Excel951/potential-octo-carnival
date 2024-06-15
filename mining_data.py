@@ -153,13 +153,13 @@ dataset = windowed_dataset(data_scaled, BATCH_SIZE, n_past=N_PAST, n_future=N_FU
 
 # Bangun model LSTM
 model = tf.keras.Sequential([
-    tf.keras.layers.LSTM(100, return_sequences=True, input_shape=(N_PAST, 1)),
-    tf.keras.layers.LSTM(100, return_sequences=False),
+    tf.keras.layers.LSTM(30, return_sequences=True, input_shape=(N_PAST, 1)),
+    tf.keras.layers.LSTM(10, return_sequences=False),
     tf.keras.layers.Dense(1)
 ])
 
 # Compile model
-model.compile(loss='mean_squared_error', optimizer='adam', metrics=['mean_squared_error'])
+model.compile(loss='huber_loss', optimizer='sgd', metrics=['mae'])
 
 # Latih model
 histori = model.fit(dataset, epochs=20)
